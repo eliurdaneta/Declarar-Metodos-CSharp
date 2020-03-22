@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\CalcularMayorMenor\bin\Debug\CalcularMayorMenor.exe.config
+C:\Users\Compaq\source\repos\CalcularMayorMenor\bin\Debug\CalcularMayorMenor.exe
+C:\Users\Compaq\source\repos\CalcularMayorMenor\bin\Debug\CalcularMayorMenor.pdb
+C:\Users\Compaq\source\repos\CalcularMayorMenor\obj\Debug\CalcularMayorMenor.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\CalcularMayorMenor\obj\Debug\CalcularMayorMenor.exe
+C:\Users\Compaq\source\repos\CalcularMayorMenor\obj\Debug\CalcularMayorMenor.pdb
