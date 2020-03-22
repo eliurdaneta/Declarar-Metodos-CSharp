@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\Tabla de Multipolicar\bin\Debug\Tabla de Multipolicar.exe.config
+C:\Users\Compaq\source\repos\Tabla de Multipolicar\bin\Debug\Tabla de Multipolicar.exe
+C:\Users\Compaq\source\repos\Tabla de Multipolicar\bin\Debug\Tabla de Multipolicar.pdb
+C:\Users\Compaq\source\repos\Tabla de Multipolicar\obj\Debug\Tabla de Multipolicar.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Tabla de Multipolicar\obj\Debug\Tabla de Multipolicar.exe
+C:\Users\Compaq\source\repos\Tabla de Multipolicar\obj\Debug\Tabla de Multipolicar.pdb
